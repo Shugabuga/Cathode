@@ -1,0 +1,10 @@
+# Ignore venv
+
+/bin/*
+/etc/*
+/lib/*
+/share/*
+/pyenv.cfg
+__pycache__/*
+*.pyc
+config.json

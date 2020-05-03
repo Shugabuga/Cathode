@@ -1,0 +1,12 @@
+{
+    "admins": [NON_OWNER_DISCORD_ID, ANOTHER_TRUSTED_DISCORD_ID],
+    "version": "3.0.0",
+    "betaToken": "BOT_TOKEN_WHEN_IN_DEV",
+    "token": "BOT_TOKEN_WHEN_IN_PROD",
+    "prefix": "/",
+    "gamePlaying": "open-source software!",
+    "color": "0x27A4EB",
+    "url": "https://example.com/",
+    "about": "Cathode is a simple and modular Discord bot.",
+    "verified": "False"
+}
